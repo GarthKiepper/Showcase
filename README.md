@@ -1,6 +1,8 @@
 # Showcase
 The Showcase displays a manuscript's transcription and corresponding facsimile side-by-side. It is used in Humanities Online projects including:
+
 Early Ruskin Manuscripts - http://english.selu.edu/humanitiesonline/ruskin
+
 The Book of Margery Kempe - http://english.selu.edu/humanitiesonline/kempe/
 
 
